@@ -16,16 +16,22 @@ This repository was added with the permission of the original author.
 ---
 
 ## Usage
-
 <!--
 ```bash
 <code>
 ```
 -->
-
 ---
 
-## Changelog
+## Changelog - OG-Open-Source
+
+### [1.0.1] - 2024-08-28
+- Add the Usage statement
+
+### [1.0.0] - 2024-08-28
+- Initial release of the project
+
+## Changelog - Original-Author
 
 ### [1.0.1] - 2024-08-28
 - Add the Usage statement
