@@ -1,4 +1,3 @@
-
 <!-- You can only change the [Year] and [Original Author Name] in the copyright statement. -->
 
 # OG|OS - OGATA Open Source
@@ -16,10 +15,21 @@ This repository was added with the permission of the original author.
 
 ---
 
+## Usage
+
+<!--
+```bash
+<code>
+-->
+
+---
+
 ## Changelog
 
-### [1.0.0] - 2024-08-28
+### [1.0.1] - 2024-08-28
+- Add the Usage statement
 
+### [1.0.0] - 2024-08-28
 - Initial release of the project
 
 ---
